@@ -1,7 +1,6 @@
 
 # 🏫 University Education 🏫  
-- **Kookmin University** - Bachelor's in Economics  
-*March 2014 - February 2020*
+- **Kookmin University** , Bachelor's in Economics - *March 2014 to February 2020*
 
 # 🧩 Professional Activities 🧩  
 - **Backend Developer** - *From 2023 onward*
