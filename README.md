@@ -14,5 +14,5 @@
 - **MovieMate Project** - *April 2023 to June 2023*
 - **Kyobo Digital Technology Service, Security SOC Project** - *November 2023 to January 2024*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaskerJang&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaskerJang&show_icons=true&theme=merko&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
