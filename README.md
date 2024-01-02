@@ -1,4 +1,3 @@
-<center>
 
 # 🏫 University Education 🏫  
 - **Kookmin University** , Bachelor's in Economics - *March 2014 to February 2020*
@@ -15,4 +14,3 @@
 - **MovieMate Project** - *April 2023 to June 2023*
 - **Kyobo Kyobo Digital Technology Service- Security SOC Project** - *November 2023 to January 2024*
 
-</center>
