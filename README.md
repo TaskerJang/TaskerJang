@@ -1,6 +1,12 @@
-🏫 University 🏫
-Kookmin University - Economics   MAR 2014 - FEB 2020
+🏫 **University Education** 🏫  
+**Kookmin University** - Bachelor's in Economics  
+   *March 2014 - February 2020*
 
-🧩 Activity 🧩
-Backend Developer	2023~
+🧩 **Professional Activities** 🧩  
+**Backend Developer** - *From 2023 onward*
+
+🌐 **Technology and Coding Programs** 🌐  
+- **ASAC Camp 3rd BootCamp** - *July 2023 to January 2024*
+- **Korea IT Academy** - *December 2022 to June 2023*
+
 
