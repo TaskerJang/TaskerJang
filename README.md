@@ -5,7 +5,7 @@
 # 🧩 Professional Activities 🧩  
 - **Backend Developer** - *From 2023 onward*
 
-# 🌐 Technology and Coding Programs 🌐  
+# 🌐 Coding Programs 🌐  
 - **ASAC 3rd BootCamp** - *July 2023 to January 2024*
 - **Korea IT Academy** - *December 2022 to June 2023*
 
