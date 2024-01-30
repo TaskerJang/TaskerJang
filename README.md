@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tasker%20Github&fontSize=40" />
 
 
-<center>
+<div style="text-align:center;">
 
 # 🏫 **University Education** 🏫  
 -  **Kookmin University** , Bachelor's in Economics - *March 2014 to February 2020*
@@ -18,7 +18,7 @@
 - **MovieMate Project** - *April 2023 to June 2023*
 - **Blackjack Project** - *March 2023 to April 2023*
 
-</center>
+</div>
 
 
 
