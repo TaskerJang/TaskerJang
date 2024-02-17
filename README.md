@@ -55,14 +55,3 @@
 
 
 
-
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/TaskerJang">
-    <img src="https://github-readme-stats.vercel.app/api?username=TaskerJang&show_icons=true&theme=merko&rank_icon=github" alt="Anurag's GitHub stats">
-  </a>
-</div>
-
-
