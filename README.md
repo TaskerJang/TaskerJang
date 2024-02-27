@@ -48,7 +48,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://blog.naver.com/tasker_dev103"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Nimeo&logoColor=white&link=https://blog.naver.com/bymyself103"/></a>&nbsp
+  <a href="[https://blog.naver.com/tasker_dev103](https://velog.io/@tasker_dev/posts)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Nimeo&logoColor=white&link=https://blog.naver.com/bymyself103"/></a>&nbsp
   <a href="mailto:tasker.dev103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tasker.dev103@gmail.com"/></a>
 </p>
 
