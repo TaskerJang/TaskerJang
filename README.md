@@ -3,13 +3,6 @@
 
 
 
-<div align="center">
-  <h2><b>🚀 Project Experience 🚀</b></h2>
-  <i><b>Kyobo Digital Technology Service, Security SOC Project</b> - November 2023 to January 2024<br>
-  <b>MovieMate Project</b> - April 2023 to June 2023<br>
-  <b>Blackjack Project</b> - March 2023 to April 2023</i>
-</div>
-
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
