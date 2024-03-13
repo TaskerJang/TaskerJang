@@ -3,7 +3,7 @@
 
 <h3 align="center">🏫 University 🏫</h3>
 <p align="center">
-<em> Kookmin University,    MAR  2014 - FEB  2020</em>
+<em> Kookmin University  -  Economics    MAR  2014 - FEB  2020</em>
 </p>   
 
 
