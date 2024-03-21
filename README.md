@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tasker%20Github&fontSize=40" />
 
-<h3 align="center">🏫 University 🏫</h3>
-<p align="center">
-Kookmin University —  &nbsp; <em>Bachelor's in Economics &nbsp;   MAR  2014 - FEB  2020</em>
-</p>   
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
