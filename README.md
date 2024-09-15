@@ -22,11 +22,9 @@
   <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat"></a>&nbsp
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@tasker_dev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Nimeo&logoColor=white&link=https://velog.io/@tasker_dev"/></a>&nbsp
-  <a href="mailto:tasker.dev103@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tasker.dev103@gmail.com"/></a>
-</p>
+[![Velog's GitHub stats](https://velog-readme-stats-two.vercel.app/api/list?name=tasker_dev)](https://velog.io/@tasker_dev/posts)
+
+
 
 
 
