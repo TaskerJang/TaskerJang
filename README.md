@@ -8,11 +8,8 @@ I'm a backend developer with extensive experience in **ML Service** projects, sp
 - **Joinusworld Club (5th Generation President)**  
   Led the **Joinusworld** development team, managing the website maintenance and upgrades while ensuring smooth communication and collaboration among members. Oversaw technical improvements and guided the team toward successful project completion.
 
-- **Kyobo Digital Technology Service (DTS) Project**  
-  Developed a real-time security issue detection system, processing and visualizing ticket data, and improving risk management through data-driven insights.
-
-- **ALF: Automated Lost & Find Project**  
-  Developed AI solutions using **YOLO**, **DeepSort**, and **BLIP** to detect lost objects in real-time from CCTV footage.
+- **fun.d IT Club (9th Generation Member)**  
+  Active member of the **fun.d IT Union Club**, where I collaborated on various tech projects and enhanced my skills in web development and backend engineering, fostering teamwork and learning in a collaborative environment.
 
 ### 📊 My Velog
 [![Velog's GitHub stats](https://velog-readme-stats-two.vercel.app/api/list?name=tasker_dev)](https://velog.io/@tasker_dev/posts)
