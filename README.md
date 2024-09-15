@@ -33,15 +33,3 @@ I'm a backend developer with extensive experience in **ML Service** projects, sp
   <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat"/>&nbsp
 </p>
 
----
-### 📫 Contact
-<p align="center">
-  <a href="mailto:tasker.dev103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="40"/>
-  </a>&nbsp
-  <a href="https://velog.io/@tasker_dev/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" height="40"/>
-  </a>
-</p>
-
-
