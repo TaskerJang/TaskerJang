@@ -1,4 +1,5 @@
-### 👨‍💻 About Me
+<h3 align="center"><strong>👨‍💻 About Me</strong></h3>
+
 
 I’m a backend developer with expertise in **ML Service projects**, focusing on **data preprocessing, labeling**, and **optimizing model performance**. Proficient in **Python** and **Java**, I’ve led projects including **real-time security issue detection systems** and **AI-driven lost object detection**, gaining technical and leadership experience.
 
@@ -12,8 +13,12 @@ I’m a backend developer with expertise in **ML Service projects**, focusing on
   Collaborated on tech projects, refining my backend engineering and web development skills in a dynamic, team-oriented environment.
 
 
-### 📊 My Velog
-[![Velog's GitHub stats](https://velog-readme-stats-two.vercel.app/api/list?name=tasker_dev)](https://velog.io/@tasker_dev/posts)
+<div align="center">
+  <h3><strong>📊 My Velog</strong></h3>
+  <a href="https://velog.io/@tasker_dev/posts">
+    <img src="https://velog-readme-stats-two.vercel.app/api/list?name=tasker_dev" alt="Velog's GitHub stats" />
+  </a>
+</div>
 
 ---
 <h3 align="center">📚 Tech Stack 📚</h3>
