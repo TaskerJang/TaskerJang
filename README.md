@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91cf42f2-52ff-4ab8-8817-6b447c1f2cda" alt="profile2" />
+</p>
 <h3 align="center"><strong>👨‍💻 About Me</strong></h3>
 
 
