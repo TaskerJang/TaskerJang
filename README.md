@@ -5,7 +5,7 @@
 
 I’m a backend developer with expertise in **ML Service projects**, focusing on **data preprocessing, labeling**, and **optimizing model performance**. Proficient in **Python** and **Java**, I’ve led projects including **real-time security issue detection systems** and **AI-driven lost object detection**, gaining technical and leadership experience.
 
-- **2024 Open Source Contribution Academy (Raftify Project Mentee)**  
+- **2024 Open Source Contribution (Raftify Project Mentee)**  
   Contributed to the **Raftify** project, enhancing distributed consensus algorithms via **Raft** and deepening my expertise in **Rust** programming and distributed systems.
 
 - **Joinusworld Club (5th Generation President)**  
