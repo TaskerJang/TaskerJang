@@ -11,7 +11,7 @@ I’m a backend developer with expertise in **ML Service projects**, focusing on
 - **Pseudo Lab (Community Member)**  
   Active member of a non-profit research community focused on machine learning/data science, contributing to collaborative projects and studies while building a culture of continuous growth. Participated in knowledge sharing initiatives that foster both individual and community development through the resonance created by an ensemble of growth.
 
-- ** DND IT Club (12th Generation Member)**  
+- **DND IT Club (12th Generation Member)**  
   Collaborated on tech projects, refining my backend engineering and web development skills in a dynamic, team-oriented environment.
 
 
