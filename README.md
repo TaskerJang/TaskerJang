@@ -8,7 +8,7 @@ I’m a backend developer with expertise in **ML Service projects**, focusing on
 - **2024 Open Source Contribution (Raftify Project Mentee)**  
   Contributed to the **Raftify** project, enhancing distributed consensus algorithms via **Raft** and deepening my expertise in **Rust** programming and distributed systems.
 
-- **Pseudo Lab (가짜연구소 Community Member)**  
+- **Pseudo Lab (Community Member)**  
   Active member of a non-profit research community focused on machine learning/data science, contributing to collaborative projects and studies while building a culture of continuous growth. Participated in knowledge sharing initiatives that foster both individual and community development through the resonance created by an ensemble of growth.
 
 - **fun.d IT Club (9th Generation Member)**  
