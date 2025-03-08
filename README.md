@@ -8,8 +8,8 @@ I’m a backend developer with expertise in **ML Service projects**, focusing on
 - **2024 Open Source Contribution (Raftify Project Mentee)**  
   Contributed to the **Raftify** project, enhancing distributed consensus algorithms via **Raft** and deepening my expertise in **Rust** programming and distributed systems.
 
-- **Joinusworld Club (5th Generation President)**  
-  Managed the **Joinusworld** development team, overseeing website maintenance, upgrades, and team communication for successful project delivery.
+- **Pseudo Lab (가짜연구소 Community Member)**  
+  Active member of a non-profit research community focused on machine learning/data science, contributing to collaborative projects and studies while building a culture of continuous growth. Participated in knowledge sharing initiatives that foster both individual and community development through the resonance created by an ensemble of growth.
 
 - **fun.d IT Club (9th Generation Member)**  
   Collaborated on tech projects, refining my backend engineering and web development skills in a dynamic, team-oriented environment.
