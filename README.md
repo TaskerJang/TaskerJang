@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/91cf42f2-52ff-4ab8-8817-6b447c1f2cda" alt="profile2" />
-</p>
-
-
 I’m a backend developer with expertise in **ML Service projects**, focusing on **data preprocessing, labeling**, and **optimizing model performance**. Proficient in **Python** and **Java**, I’ve led projects including **real-time security issue detection systems** and **AI-driven lost object detection**, gaining technical and leadership experience.
 
 - **2024 Open Source Contribution (Raftify Project Mentee)**  
