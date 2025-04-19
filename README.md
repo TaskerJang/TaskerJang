@@ -43,10 +43,10 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
 
 <h4 align="center">ML & Computer Vision</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Deep_OC--SORT-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=LangChain&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Agent-4B32C3?style=flat-square&logo=AmazonSageMaker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Recommendation_Systems-FF5A5F?style=flat-square&logo=Airbnb&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLM-00A9D9?style=flat-square&logo=OpenAI&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=chainlink&logoColor=white"/>&nbsp;
 </p>
