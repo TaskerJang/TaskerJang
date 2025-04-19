@@ -41,7 +41,7 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
   <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat"/>&nbsp;
 </p>
 
-<h4 align="center">ML & Computer Vision</h4>
+<h4 align="center">Machine Learning</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Agent-4B32C3?style=flat-square&logo=AmazonSageMaker&logoColor=white"/>&nbsp;
