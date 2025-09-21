@@ -1,6 +1,6 @@
 I'm a specialized backend developer with proven expertise in **ML-driven production systems**, focusing on end-to-end machine learning pipelines from **advanced data preprocessing** and **precision labeling** to **model performance optimization**. With strong proficiency in **Python** and **Java**, I've successfully led high-impact projects including **real-time security threat detection systems** and **AI-powered lost item tracking solutions** that demonstrate both my technical depth and leadership capabilities in solving complex problems.
 
-- **2025 DEVOCEAN OpenLab Research Program**  
+- **2025 SK DEVOCEAN OpenLab Research Program**  
   Selected participant in **"Advanced RAG Technique 기반 생성형AI 서비스 개발에 대한 연구"** focusing on enhancing generative AI services through advanced Retrieval-Augmented Generation techniques. Contributing to cutting-edge research in production-level AI systems.
 
 - **2025 Open Source Contribution (Ko-AgentBench)**  
