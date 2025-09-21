@@ -1,16 +1,22 @@
 I'm a specialized backend developer with proven expertise in **ML-driven production systems**, focusing on end-to-end machine learning pipelines from **advanced data preprocessing** and **precision labeling** to **model performance optimization**. With strong proficiency in **Python** and **Java**, I've successfully led high-impact projects including **real-time security threat detection systems** and **AI-powered lost item tracking solutions** that demonstrate both my technical depth and leadership capabilities in solving complex problems.
 
-- **First Author of Research Publication (2025)**  
-  Lead author of **"Implementation of a Deep OC-SORT based Multi-Object Tracking and Matching Algorithm for Managing Lost Items and Owners in Trains"** published in the KCI-indexed Journal of the Korea Institute of Information Technology. Developed a system achieving 0.995 mAP50 and 0.96 mAP50-95 performance metrics for real-time lost item tracking in transportation environments.
+- **2025 DEVOCEAN OpenLab Research Program**  
+  Selected participant in **"Advanced RAG Technique 기반 생성형AI 서비스 개발에 대한 연구"** focusing on enhancing generative AI services through advanced Retrieval-Augmented Generation techniques. Contributing to cutting-edge research in production-level AI systems.
 
-- **2024 Open Source Contribution (Raftify Project Mentee)**  
-  Contributed to the **Raftify** project, enhancing distributed consensus algorithms via **Raft** and deepening my expertise in **Rust** programming and distributed systems.
+- **2025 Open Source Contribution - Ko-AgentBench**  
+  Contributing to **Ko-AgentBench** development and **Transformers documentation translation**, working on comprehensive evaluation frameworks for Korean AI agents and improving accessibility of ML resources for Korean developers.
 
-- **Pseudo Lab (Community Member)**  
-  Active member of a non-profit research community focused on machine learning/data science, contributing to collaborative projects and studies while building a culture of continuous growth. Participated in knowledge sharing initiatives that foster both individual and community development through the resonance created by an ensemble of growth.
+- **2025 Pseudo Lab 11th Generation - FinAgent POC**  
+  Developing **MarketAgent**, an S&P 500 sector analysis and recommendation system that leverages macroeconomic indicators to identify promising quarterly investment sectors through AI-driven analysis.
+
+- **First Author Research Publication (2025)**  
+  Lead author of **"Implementation of a Deep OC-SORT based Multi-Object Tracking and Matching Algorithm for Managing Lost Items and Owners in Trains"** published in the KCI-indexed Journal of the Korea Institute of Information Technology. Achieved 0.995 mAP50 and 0.96 mAP50-95 performance metrics.
+
+- **2024 Open Source Contribution (Raftify Project)**  
+  Contributed to distributed consensus algorithms via **Raft** implementation, enhancing expertise in **Rust** programming and distributed systems architecture.
 
 - **DND IT Club (12th Generation Member)**  
-  Collaborated on tech projects, refining my backend engineering and web development skills in a dynamic, team-oriented environment.
+  Collaborated on full-stack development projects, including **Picktory** gift recommendation service with JWT authentication and QueryDSL-based data optimization.
 
 <div align="center">
   <h3><strong>📊 My Velog</strong></h3>
