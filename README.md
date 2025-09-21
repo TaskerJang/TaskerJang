@@ -3,7 +3,7 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
 - **2025 SK DEVOCEAN OpenLab Research**  
   Selected participant in **"Advanced RAG Technique 기반 생성형AI 서비스 개발에 대한 연구"** focusing on enhancing generative AI services through advanced Retrieval-Augmented Generation techniques. Contributing to cutting-edge research in production-level AI systems.
 
-- **2025 Open Source Contribution (HuggingFace)**  
+- **2025 Open Source Contribution (Hugging Face)**  
   Contributing to **Ko-AgentBench** development and **Transformers documentation translation**, working on comprehensive evaluation frameworks for Korean AI agents and improving accessibility of ML resources for Korean developers.
 
 - **2025 Pseudo Lab 11th Generation (FinAgent)**  
@@ -12,7 +12,7 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
 - **First Author Research Publication (2025)**  
   Lead author of **"Implementation of a Deep OC-SORT based Multi-Object Tracking and Matching Algorithm for Managing Lost Items and Owners in Trains"** published in the KCI-indexed Journal of the Korea Institute of Information Technology. Achieved 0.995 mAP50 and 0.96 mAP50-95 performance metrics.
 
-- **2024 Open Source Contribution (Raftify Project)**  
+- **2024 Open Source Contribution (Raftify)**  
   Contributed to distributed consensus algorithms via **Raft** implementation, enhancing expertise in **Rust** programming and distributed systems architecture.
 
 - **DND IT Club (12th Generation Member)**  
