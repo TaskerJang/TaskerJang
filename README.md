@@ -3,7 +3,7 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
 - **2025 DEVOCEAN OpenLab Research Program**  
   Selected participant in **"Advanced RAG Technique 기반 생성형AI 서비스 개발에 대한 연구"** focusing on enhancing generative AI services through advanced Retrieval-Augmented Generation techniques. Contributing to cutting-edge research in production-level AI systems.
 
-- **2025 Open Source Contribution - Ko-AgentBench**  
+- **2025 Open Source Contribution (Ko-AgentBench)**  
   Contributing to **Ko-AgentBench** development and **Transformers documentation translation**, working on comprehensive evaluation frameworks for Korean AI agents and improving accessibility of ML resources for Korean developers.
 
 - **2025 Pseudo Lab 11th Generation - FinAgent**  
