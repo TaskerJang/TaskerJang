@@ -6,7 +6,7 @@ I'm a specialized backend developer with proven expertise in **ML-driven product
 - **2025 Open Source Contribution (Ko-AgentBench)**  
   Contributing to **Ko-AgentBench** development and **Transformers documentation translation**, working on comprehensive evaluation frameworks for Korean AI agents and improving accessibility of ML resources for Korean developers.
 
-- **2025 Pseudo Lab 11th Generation - FinAgent**  
+- **2025 Pseudo Lab 11th Generation (FinAgent)**  
   Developing **MarketAgent**, an S&P 500 sector analysis and recommendation system that leverages macroeconomic indicators to identify promising quarterly investment sectors through AI-driven analysis.
 
 - **First Author Research Publication (2025)**  
